@@ -290,5 +290,7 @@ Engineered by a developer building a real-world JARVIS-style assistant.
 
 | Platform | Link |
 | --- | --- |
-| YouTube | [@Abhijeet](https://www.youtube.com/@Abhijeet) |
-| Instagram | [@abhijeet](https://www.instagram.com/abhijeet) |
+| **GitHub** | [@abhi666-max](https://github.com/abhi666-max) |
+| **LinkedIn** | [Abhijeet Kangane](https://www.linkedin.com/in/abhijeet-kangane/) |
+| **X (Twitter)** | [@abhijeet_037](https://x.com/abhijeet_037) |
+| **Instagram** | [@abhijeet.037](https://www.instagram.com/abhijeet.037/) |
